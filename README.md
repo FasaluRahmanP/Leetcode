@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/FasaluRahmanP/Leetcode/tree/master/0326-power-of-three) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FasaluRahmanP/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/FasaluRahmanP/Leetcode/tree/master/1448-maximum-69-number) |
+| [2507-number-of-common-factors](https://github.com/FasaluRahmanP/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/FasaluRahmanP/Leetcode/tree/master/1448-maximum-69-number) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/FasaluRahmanP/Leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/FasaluRahmanP/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
