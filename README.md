@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/FasaluRahmanP/Leetcode/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/FasaluRahmanP/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/FasaluRahmanP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/FasaluRahmanP/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/FasaluRahmanP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3379-score-of-a-string](https://github.com/FasaluRahmanP/Leetcode/tree/master/3379-score-of-a-string) |
 ## Array
